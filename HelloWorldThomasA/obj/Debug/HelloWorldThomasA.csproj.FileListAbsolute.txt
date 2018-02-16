@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\bin\Debug\HelloWorldThomasA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\bin\Debug\HelloWorldThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\bin\Debug\HelloWorldThomasA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\obj\Debug\HelloWorldThomasA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\obj\Debug\HelloWorldThomasA.frmHelloWorld.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\obj\Debug\HelloWorldThomasA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\obj\Debug\HelloWorldThomasA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\obj\Debug\HelloWorldThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldThomasA\HelloWorldThomasA\obj\Debug\HelloWorldThomasA.pdb
